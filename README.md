@@ -1,2 +1,2 @@
 # Anime_content 
-all content related to animes'
+all content related to animes
